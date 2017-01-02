@@ -3,6 +3,3 @@
 .clang_complete
 .gcc-flags.json
 .travis.yml
-.gitignore
-lib/
-platformio.ini
